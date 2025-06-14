@@ -1,0 +1,15 @@
+<!-- Comment -->
+<QuickDictionary>
+    <cheese>
+        <language="Romanian">Brânză</language>
+        <language="French">Fromage</language>
+    </cheese>
+    <juice>
+        <language="Romanian">Suc</language>
+        <language="French">Jus</language>
+    </juice>
+    <salad>
+        <language="Romanian">Salată</language>
+        <language="French">Salade</language>
+    </salad>
+</QuickDictionary>
